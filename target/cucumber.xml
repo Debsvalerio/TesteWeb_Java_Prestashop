@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.027">
+    <testcase classname="Comprar produto" name="Deve mostrar uma lista de oito produtos na pagina inicial" time="7.781">
+        <system-out><![CDATA[Dado que estou na pagina inicial............................................passed
+Quando nao estou logado.....................................................passed
+Entao visualizo 8 produtos disponiveis......................................passed
+E carrinho esta zerado......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
